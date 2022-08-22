@@ -1,6 +1,6 @@
-package com.sparta.springcore.entity;
+package com.sparta.springcore.model;
 
-import com.sparta.springcore.Dto.ProductRequestDto;
+import com.sparta.springcore.dto.ProductRequestDto;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
